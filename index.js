@@ -9,6 +9,8 @@ app.get('/', (req, res) => {
     res.send('edu data load successfully')
 })
 
+
+
 app.listen(port, () => {
     console.log(`Listening port working ${port}`)
 })

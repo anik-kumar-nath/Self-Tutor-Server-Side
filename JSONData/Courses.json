@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "01",
+        "title": "React.js",
+        "details": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+        "image": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"
+    },
+    {
+        "_id": "02",
+        "title": "JavaScript",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "image": "https://www.computerhope.com/jargon/j/javascript.png"
+    },
+    {
+        "_id": "03",
+        "title": "Git",
+        "details": "Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.",
+        "image": "https://www.valuebound.com/sites/default/files/Beginners_guide_setting_up-git.jpg"
+    },
+    {
+        "_id": "04",
+        "title": "HTML",
+        "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEmxWaRFZRYc3xCssQS0aa6wvLBWjZxzq9t9et2ASmmnHE8T-xS7qCoVwTmr906a0MtNQ&usqp=CAU"
+    },
+    {
+        "_id": "05",
+        "title": "CSS",
+        "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+    },
+    {
+        "_id": "06",
+        "title": "Python",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+    }
+]
